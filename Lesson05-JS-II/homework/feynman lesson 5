@@ -1,0 +1,17 @@
+A FOR LOOP is a function that can do something a number of times. Imagine if I said, say your name 5 times. If your name is Monica, well that
+would be a loop. You would say: "Monica, Monica, Monica, Monica, Monica." That would be a loop because the statement would go around and around.
+
+&& 
+
+This is an operator. You can combine two sentences together. Just think of two sentences about yourself that you like. You can say 
+"I like video games" and "I like candy." then you can take && and add the two together. Because the two are true, you can add them.
+
+||
+
+This shows a False value. Anything you say with two sentences is returned as False. So if I say: "I like video games" and "I like candy"
+then that would not be True. Don't get mad if it's not true! It's just computer programming!
+
+!!!!
+
+These mean NOT. So let's go back to the two sentences: "I lke video games" and "I like candy." What if we said: I hate video games and I hate 
+candy? Well with ! this means that it would be true.
