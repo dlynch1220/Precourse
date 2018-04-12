@@ -1,0 +1,26 @@
+Variables:
+
+Using variables is like putting something in the trash can. It can be a number, a string, or anything you like. When you close the trash can
+The trash can stores it in memory. You are then able to open the trash can as many times as you want and use it for anything you like.
+
+Strings:
+
+Strings are like your name. You have a name so if your name is "Marcus" then you would be able to call this name and then remember all
+the information about this name. This name can be used in a list or a dictionary or an array.
+
+Functions:
+
+Functions is something that when you put something in it, then it puts something out. If I give you a 2 dollars to buy me bread, then the 
+function is that it goes to the store to get bread. and you come back with bread so the function would have two purposes:
+1. to get bread
+2. to bring it back
+
+If Statements:
+
+If statements is like betting. It is a calculation. If I say: If you do your homework you will go outside and play. Well, if you don't do your
+homework you can go out. So If statements are like a function that gives you two choices for something. Yes and No.
+
+Boolean:
+
+Booleans are True and False. If I showed you 10 marbles and you counted it and guessed that I had 10 marbles, then that statement would be
+True. If I showed you 10 marbles and you counted 9 marbles, then I would have to say False.
