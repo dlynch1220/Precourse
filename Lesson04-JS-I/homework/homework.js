@@ -26,63 +26,67 @@ const newModulo = 21 % 5 === null ;
 //Do not change any of the function names
 
 function returnString(str) {
-  //simply return the string provided: str
+    returnString(str)
+  
 }
 
 function add(x, y) {
-  // x and y are numbers
-  // add x and y together and return the value
-  // code here
+   const x = 10
+   const y = 15
+    return (x + y)
 }
 
 function subtract(x, y) {
-  // subtract y from x and return the value
-  // code here
+  const x = 4
+  const  y = 1
+    return (x - y)
 }
 
 function multiply(x, y) {
-  // multiply x by y and return the value
-  // code here
+  const x = 10
+  const y = 5
+    return (x * y)
 }
 
 function divide(x, y) {
-  // divide x by y and return the value
-  // code here
-}
+  const x = 3
+  const y = 8
+    return (x / y)
+} 
 
 function areEqual(x, y) {
-  // return true if x and y are the same
-  // otherwise return false
-  // code here
+    const x = 1
+    const y = 1
+      return x == y
+        else: False
 }
 
 function areSameLength(str1, str2) {
-  // return true if the two strings have the same length
-  // otherwise return false
-  // code here
+  const str1 = "horse";
+  const str2 = "water";
+      return x = str.length()
 }
 
 function lessThanNinety(num) {
-  // return true if the function argument: num , is less than ninety
-  // otherwise return false
-  // code here
+  const num = 45
+      if num < 90:
+        Return True
+       
 }
 
 function greaterThanFifty(num) {
-  // return true if num is greater than fifty
-  // otherwise return false
-  // code here
+      const num = 89
+      num > 50:;
+          return True
 }
 
 function getRemainder(x, y) {
-  // return the remainder from dividing x by y
-  // code here
+           x % y = a;
+          a = Get Remainder
 }
 
 function isEven(num) {
-  // return true if num is even
-  // otherwise return false
-  // code here
+   
 }
 
 function isOdd(num) {
@@ -92,60 +96,60 @@ function isOdd(num) {
 }
 
 function square(num) {
-  // square num and return the new value
-  // hint: NOT square root!
-  // code here
+    x ** 2 = y;
+      return y
 }
 
 function cube(num) {
-  // cube num and return the new value
-  // code here
+      x ** 3 = y;
+        return y
 }
 
 function raiseToPower(num, exponent) {
-  // raise num to whatever power is passed in as exponent
-  // code here
+          math.pow(2, 6) = var
+              return var
 }
 
 function roundNumber(num) {
-  // round num and return it
-  // code here
+          math.round(3.4) = var
+            return var
 }
 
 function roundUp(num) {
-  // round num up and return it
-  // code here
+      math.ceil(2.1) = var
+            return var
 }
 
 function addExclamationPoint(str) {
-  // add an exclamation point to the end of str and return the new string
-  // 'hello world' -> 'hello world!'
-  // code here
+      x = "Hello World"
+      y = "Hello World" + !
+      z =
 }
 
 function combineNames(firstName, lastName) {
-  // return firstName and lastName combined as one string and separated by a space.
-  // 'Lambda', 'School' -> 'Lambda School'
-  // code here
+               x = "Marcus"
+               y = "Wilson"
+               z = (x + " + y)
+                    return z
+               
 }
 
 function getGreeting(name) {
-  // Take the name string and concatenate other strings onto it so it takes the following form:
-  // 'Sam' -> 'Hello Sam!'
-  // code here
+          x  = "Marcus"
+          y = "Wilson"
+          z = x + y
+                return z
 }
 
 // The next three questions will have you implement math area formulas. 
 // If you can't remember these area formulas then head over to Google.
  
 function getRectangleArea(length, width) {
-  // return the area of the rectangle by using length and width
-  // code here
+  I'm trying my best but this was a little difficult
 }
 
 function getTriangleArea(base, height) {
-  // return the area of the triangle by using base and height
-  // code here
+  I'm trying my best but this was a little difficult
 }
 
 // Do not modify code below this line.
